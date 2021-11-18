@@ -1,0 +1,95 @@
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO/bin/Debug/net5.0/Testando POO.exe
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO/bin/Debug/net5.0/Testando POO.deps.json
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO/bin/Debug/net5.0/Testando POO.runtimeconfig.json
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO/bin/Debug/net5.0/Testando POO.runtimeconfig.dev.json
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO/bin/Debug/net5.0/Testando POO.dll
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO/bin/Debug/net5.0/ref/Testando POO.dll
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO/bin/Debug/net5.0/Testando POO.pdb
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO/obj/Debug/net5.0/Testando POO.csproj.AssemblyReference.cache
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO/obj/Debug/net5.0/Testando POO.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO/obj/Debug/net5.0/Testando POO.AssemblyInfoInputs.cache
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO/obj/Debug/net5.0/Testando POO.AssemblyInfo.cs
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO/obj/Debug/net5.0/Testando POO.csproj.CoreCompileInputs.cache
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO/obj/Debug/net5.0/Testando POO.dll
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO/obj/Debug/net5.0/ref/Testando POO.dll
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO/obj/Debug/net5.0/Testando POO.pdb
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO/obj/Debug/net5.0/Testando POO.genruntimeconfig.cache
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO_Re01/bin/Debug/net5.0/Testando POO.exe
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO_Re01/bin/Debug/net5.0/Testando POO.deps.json
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO_Re01/bin/Debug/net5.0/Testando POO.runtimeconfig.json
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO_Re01/bin/Debug/net5.0/Testando POO.runtimeconfig.dev.json
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO_Re01/bin/Debug/net5.0/Testando POO.dll
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO_Re01/bin/Debug/net5.0/ref/Testando POO.dll
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO_Re01/bin/Debug/net5.0/Testando POO.pdb
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO_Re01/obj/Debug/net5.0/Testando POO.csproj.AssemblyReference.cache
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO_Re01/obj/Debug/net5.0/Testando POO.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO_Re01/obj/Debug/net5.0/Testando POO.AssemblyInfoInputs.cache
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO_Re01/obj/Debug/net5.0/Testando POO.AssemblyInfo.cs
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO_Re01/obj/Debug/net5.0/Testando POO.csproj.CoreCompileInputs.cache
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO_Re01/obj/Debug/net5.0/Testando POO.dll
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO_Re01/obj/Debug/net5.0/ref/Testando POO.dll
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO_Re01/obj/Debug/net5.0/Testando POO.pdb
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/Testando POO_Re01/obj/Debug/net5.0/Testando POO.genruntimeconfig.cache
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2/bin/Debug/net5.0/Testando POO.exe
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2/bin/Debug/net5.0/Testando POO.deps.json
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2/bin/Debug/net5.0/Testando POO.runtimeconfig.json
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2/bin/Debug/net5.0/Testando POO.runtimeconfig.dev.json
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2/bin/Debug/net5.0/Testando POO.dll
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2/bin/Debug/net5.0/ref/Testando POO.dll
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2/bin/Debug/net5.0/Testando POO.pdb
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2/obj/Debug/net5.0/Testando POO.csproj.AssemblyReference.cache
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2/obj/Debug/net5.0/Testando POO.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2/obj/Debug/net5.0/Testando POO.AssemblyInfoInputs.cache
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2/obj/Debug/net5.0/Testando POO.AssemblyInfo.cs
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2/obj/Debug/net5.0/Testando POO.csproj.CoreCompileInputs.cache
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2/obj/Debug/net5.0/Testando POO.dll
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2/obj/Debug/net5.0/ref/Testando POO.dll
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2/obj/Debug/net5.0/Testando POO.pdb
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2/obj/Debug/net5.0/Testando POO.genruntimeconfig.cache
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2 - Wilton/bin/Debug/net5.0/Testando POO.exe
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2 - Wilton/bin/Debug/net5.0/Testando POO.deps.json
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2 - Wilton/bin/Debug/net5.0/Testando POO.runtimeconfig.json
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2 - Wilton/bin/Debug/net5.0/Testando POO.runtimeconfig.dev.json
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2 - Wilton/bin/Debug/net5.0/Testando POO.dll
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2 - Wilton/bin/Debug/net5.0/ref/Testando POO.dll
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2 - Wilton/bin/Debug/net5.0/Testando POO.pdb
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2 - Wilton/obj/Debug/net5.0/Testando POO.csproj.AssemblyReference.cache
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2 - Wilton/obj/Debug/net5.0/Testando POO.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2 - Wilton/obj/Debug/net5.0/Testando POO.AssemblyInfoInputs.cache
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2 - Wilton/obj/Debug/net5.0/Testando POO.AssemblyInfo.cs
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2 - Wilton/obj/Debug/net5.0/Testando POO.csproj.CoreCompileInputs.cache
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2 - Wilton/obj/Debug/net5.0/Testando POO.dll
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2 - Wilton/obj/Debug/net5.0/ref/Testando POO.dll
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2 - Wilton/obj/Debug/net5.0/Testando POO.pdb
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2 - Wilton/obj/Debug/net5.0/Testando POO.genruntimeconfig.cache
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2_Re00/bin/Debug/net5.0/Testando POO.exe
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2_Re00/bin/Debug/net5.0/Testando POO.deps.json
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2_Re00/bin/Debug/net5.0/Testando POO.runtimeconfig.json
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2_Re00/bin/Debug/net5.0/Testando POO.runtimeconfig.dev.json
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2_Re00/bin/Debug/net5.0/Testando POO.dll
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2_Re00/bin/Debug/net5.0/ref/Testando POO.dll
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2_Re00/bin/Debug/net5.0/Testando POO.pdb
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2_Re00/obj/Debug/net5.0/Testando POO.csproj.AssemblyReference.cache
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2_Re00/obj/Debug/net5.0/Testando POO.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2_Re00/obj/Debug/net5.0/Testando POO.AssemblyInfoInputs.cache
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2_Re00/obj/Debug/net5.0/Testando POO.AssemblyInfo.cs
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2_Re00/obj/Debug/net5.0/Testando POO.csproj.CoreCompileInputs.cache
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2_Re00/obj/Debug/net5.0/Testando POO.dll
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2_Re00/obj/Debug/net5.0/ref/Testando POO.dll
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2_Re00/obj/Debug/net5.0/Testando POO.pdb
+C:/Users/User/OneDrive/Área de Trabalho/Estudos C#/TDP_Aula3/Desafio_Parte 2_Re00/obj/Debug/net5.0/Testando POO.genruntimeconfig.cache
+/Users/hugoramossoares/Downloads/Desafio_Parte 2_Re00/bin/Debug/net5.0/Testando POO.deps.json
+/Users/hugoramossoares/Downloads/Desafio_Parte 2_Re00/bin/Debug/net5.0/Testando POO.runtimeconfig.json
+/Users/hugoramossoares/Downloads/Desafio_Parte 2_Re00/bin/Debug/net5.0/Testando POO.runtimeconfig.dev.json
+/Users/hugoramossoares/Downloads/Desafio_Parte 2_Re00/bin/Debug/net5.0/Testando POO.dll
+/Users/hugoramossoares/Downloads/Desafio_Parte 2_Re00/bin/Debug/net5.0/ref/Testando POO.dll
+/Users/hugoramossoares/Downloads/Desafio_Parte 2_Re00/bin/Debug/net5.0/Testando POO.pdb
+/Users/hugoramossoares/Downloads/Desafio_Parte 2_Re00/obj/Debug/net5.0/Testando POO.csproj.AssemblyReference.cache
+/Users/hugoramossoares/Downloads/Desafio_Parte 2_Re00/obj/Debug/net5.0/Testando POO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugoramossoares/Downloads/Desafio_Parte 2_Re00/obj/Debug/net5.0/Testando POO.AssemblyInfoInputs.cache
+/Users/hugoramossoares/Downloads/Desafio_Parte 2_Re00/obj/Debug/net5.0/Testando POO.AssemblyInfo.cs
+/Users/hugoramossoares/Downloads/Desafio_Parte 2_Re00/obj/Debug/net5.0/Testando POO.csproj.CoreCompileInputs.cache
+/Users/hugoramossoares/Downloads/Desafio_Parte 2_Re00/obj/Debug/net5.0/Testando POO.dll
+/Users/hugoramossoares/Downloads/Desafio_Parte 2_Re00/obj/Debug/net5.0/ref/Testando POO.dll
+/Users/hugoramossoares/Downloads/Desafio_Parte 2_Re00/obj/Debug/net5.0/Testando POO.pdb
+/Users/hugoramossoares/Downloads/Desafio_Parte 2_Re00/obj/Debug/net5.0/Testando POO.genruntimeconfig.cache
